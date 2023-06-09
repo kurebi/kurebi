@@ -1,4 +1,7 @@
 ### Hi there 👋
+  <a href="http://twitter.com/kurebi_s">
+    <img height="20" src="https://img.shields.io/twitter/follow/kurebi_s?label=Twitter&logo=twitter&style=flat" />
+  </a>
 
 <!--
 **kurebi/kurebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
